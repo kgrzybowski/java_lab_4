@@ -33,7 +33,6 @@ public class Dom implements Budynek {
         this.kolor = kolor;
     }
 
-    //przypisuje nowe wartosci do powierzchni i liczby mieszkancow. zwraca  srednia Wielkosc Na Mieszkanca
 
     @Override
     public double sredniaLiczbaOkienNaMieszkanie(double pow, int liczbaOkien) {
